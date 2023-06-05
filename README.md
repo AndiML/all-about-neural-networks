@@ -1,7 +1,6 @@
 # All-about-neural-networks
-
-# 2.) Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
-The 2nd course of the deeplearning.ai's [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+This repository contains the implementation of the assignments for the [course]https://www.coursera.org/specializations/deep-learning) of DeepLearning.AI 
+## 2.) Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
 
 * WEEK 1 - Practical aspects of Deep Learning
 	* [Initialization](http://nbviewer.jupyter.org/github/luonglearnstocode/Improving-Deep-Neural-Networks-Hyperparameter-tuning-Regularization-and-Optimization/blob/master/week1-Practical-aspects-of-Deep-Learning/Initialization.ipynb)
