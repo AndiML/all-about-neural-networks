@@ -1,5 +1,5 @@
 # All-about-neural-networks
-This repository contains the implementation of the assignments for the [course]https://www.coursera.org/specializations/deep-learning) of DeepLearning.AI 
+This repository contains the implementation of the assignments for the [course](https://www.coursera.org/specializations/deep-learning) of DeepLearning.AI 
 ## 2.) Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
 
 * WEEK 1 - Practical aspects of Deep Learning
