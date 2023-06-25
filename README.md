@@ -4,7 +4,7 @@ This repository contains the implementation of the assignments for the [course](
 
 * WEEK 1 - Practical aspects of Deep Learning
 	* [Initialization](https://github.com/AndiML/all-about-neural-networks/blob/main/improving-deep-neural-networks/W1A1/Initialization.ipynb)
-	* [Regularization](http://nbviewer.jupyter.org/github/luonglearnstocode/Improving-Deep-Neural-Networks-Hyperparameter-tuning-Regularization-and-Optimization/blob/master/week1-Practical-aspects-of-Deep-Learning/Regularization-v2.ipynb)
+	* [Regularization](https://github.com/AndiML/all-about-neural-networks/blob/main/improving-deep-neural-networks/W1A2/Regularization.ipynb)
 	* [Gradient Checking](http://nbviewer.jupyter.org/github/luonglearnstocode/Improving-Deep-Neural-Networks-Hyperparameter-tuning-Regularization-and-Optimization/blob/master/week1-Practical-aspects-of-Deep-Learning/Gradient-Checking-v1.ipynb)
 * WEEK 2 - Optimization algorithms
 	* [Optimization](http://nbviewer.jupyter.org/github/luonglearnstocode/Improving-Deep-Neural-Networks-Hyperparameter-tuning-Regularization-and-Optimization/blob/master/week2-Optimization-algorithms/Optimization-methods.ipynb)
